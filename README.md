@@ -8,7 +8,7 @@ Get this dataset in Kaggle: https://www.kaggle.com/datasets/akshaydattatraykhare
 ## Dataset attributes
 
 _Pregnancies_: to express the number of pregnancies;
-_Glucose_: to express the glucose level in blood;
+__Glucose_: to express the glucose level in blood;
 _BloodPressure_: to express the blood pressure measurement;
 _SkinThickness_: to express the thickness of the skin;
 _Insulin_: to express the insulin level in blood;
