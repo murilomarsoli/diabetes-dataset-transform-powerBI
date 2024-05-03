@@ -7,12 +7,12 @@ Get this dataset in Kaggle: https://www.kaggle.com/datasets/akshaydattatraykhare
 
 ## Dataset attributes
 
-***Pregnancies**: to express the number of pregnancies;&nbsp;
-***Glucose**: to express the glucose level in blood;&nbsp;
-***BloodPressure**: to express the blood pressure measurement;&nbsp;
-***SkinThickness**: to express the thickness of the skin;&nbsp;
-***Insulin**: to express the insulin level in blood;&nbsp;
-***BMI**: to express the Body Mass Index;&nbsp;
-***DiabetesPedigreeFunction**: To express the Diabetes percentage;&nbsp;
-***Age**: to express the age;&nbsp;
+***Pregnancies**: to express the number of pregnancies;<br/>
+***Glucose**: to express the glucose level in blood;<br/>
+***BloodPressure**: to express the blood pressure measurement;<br/>
+***SkinThickness**: to express the thickness of the skin;<br/>
+***Insulin**: to express the insulin level in blood;<br/>
+***BMI**: to express the Body Mass Index;<br/>
+***DiabetesPedigreeFunction**: To express the Diabetes percentage;<br/>
+***Age**: to express the age;<br/>
 ***Outcome**: to express the final result 1 is “Yes” and 0 is “No” (“Does the person have diabetes?”).
