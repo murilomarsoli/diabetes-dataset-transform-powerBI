@@ -13,5 +13,6 @@ Get this dataset in Kaggle: https://www.kaggle.com/datasets/akshaydattatraykhare
 **SkinThickness**: to express the thickness of the skin;
 **Insulin**: to express the insulin level in blood;
 **BMI**: to express the Body Mass Index;
-**DiabetesPedigreeFunction**: To express the Diabetes percentage;_Age_: to express the age;
+**DiabetesPedigreeFunction**: To express the Diabetes percentage;
+**Age**: to express the age;
 **Outcome**: to express the final result 1 is “Yes” and 0 is “No” (“Does the person have diabetes?”).
